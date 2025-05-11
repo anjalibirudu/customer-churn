@@ -1,0 +1,1 @@
+This project predicts customer churn using machine learning. By analyzing data like demographics, account info, and service usage, models like Random Forest and Logistic Regression were built. The goal is to help businesses identify at-risk customers and implement retention strategies, reducing customer loss and improving satisfaction.
